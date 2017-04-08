@@ -30,6 +30,7 @@ Abstract:
 #pragma warning(disable : 4201)
 #pragma warning(disable : 4028)
 #pragma warning(disable : 4133)
+#pragma warning(disable : 4005)
 
 #define GUID  _WINNT_DUP_GUID_____
 #define _LIST_ENTRY  _WINNT_DUP_LIST_ENTRY_FORWARD
